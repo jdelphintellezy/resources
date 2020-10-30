@@ -1,2 +1,38 @@
-# resources
-Links and more links
+# Resources
+
+## Learning
+- [Usable Learning - Reading List](https://usablelearning.com/resources/reading-list/)
+
+
+## Creation
+- [Creative Commons Search](https://search.creativecommons.org/)
+- [Bensound - royalty free music](https://www.bensound.com/)
+- [Flaticon](https://www.flaticon.com/)
+- [Noun Project - Icons & Photos](https://thenounproject.com/)
+- [Font Previewer](https://wordmark.it/)
+- [Google Fonts](https://fonts.google.com/)
+- [Adobe Color](https://color.adobe.com/create/color-wheel)
+- [Collect UI - UI Inspiration](https://collectui.com/)
+
+## Note Taking / Idea Capture
+- [Notion](https://www.notion.so/)
+
+## Curated Resources
+- [Links by Tracy Parish](https://e-learning.zeef.com/tracy.parish)
+- [Dev- Tech news and resources](https://dev.to/)
+
+## QA
+- [Browserstack](https://www.browserstack.com/)
+
+## Dev
+- [Flutter - Mobil Dev](https://www.browserstack.com/)
+- [Unity](https://unity.com/)
+- [Voiceflow - build Alex and Goolge voice apps](https://www.voiceflow.com/)
+- [Automation with Open Source Apps](https://www.youtube.com/watch?v=dd89zNKmL3M&feature=youtu.be)
+
+## Security
+- [Composer security vulnerabilities monitoring
+](https://security.symfony.com/)
+
+## Gameification
+- [Gamify Your Life](https://conradlin.com/theGamificationProject)
